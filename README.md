@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Danila Kouzmenko
+- 👀 I’m interested in creating games
+- 🌱 I’m currently learning python
+- 📫 Mail - danila.kouz@gmail.com
